@@ -1,0 +1,6 @@
+{
+  "name": "DoseMate - Senior-Friendly Medicine Reminder & Caregiver Sync",
+  "description": "Accessible, high-contrast medication scheduler with voice commands, biometric lock, caregiver alerts, and offline encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
